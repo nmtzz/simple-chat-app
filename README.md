@@ -20,14 +20,11 @@
 1. Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/simple-chat-app.git
-cd simple-chat-app/backend
+git clone https://github.com/nmtzz/simple-chat-app.git
 ```
 
 2. Điều hướng đến thư mục server, sau đó chạy file `1.Run_server.bat`
 
 3. Điều hướng đến thư mục client, sau đó chạy file `1.Run_client.bat`
 
-4. Truy cập trên trình duyệt:
-
-- Truy cập trình duyệt sau đó mở URL Vite cung cấp, mặc định: `http://localhost:5173/`
+4. Truy cập trình duyệt sau đó mở URL Vite cung cấp, mặc định: `http://localhost:5173/`
